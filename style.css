@@ -278,7 +278,7 @@ button a {
 .cone {
     width: 50%;
     height: 25vh;
-    background-image: url('/images/mobile/image-gallery-cone.jpg');
+    background-image: url('./images/mobile/image-gallery-cone.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
