@@ -87,7 +87,7 @@ button a {
 .header-img {
     width: 100%;
     height: 55vh;
-    background-image: url('/images/mobile/image-header.jpg');
+    background-image: url('./images/mobile/image-header.jpg');
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
@@ -102,7 +102,7 @@ button a {
 }
 
 .egg {
-    background-image: url('/images/mobile/image-transform.jpg');
+    background-image: url('./images/mobile/image-transform.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -110,7 +110,7 @@ button a {
 }
 
 .stand {
-    background-image: url('/images/mobile/image-stand-out.jpg');
+    background-image: url('./images/mobile/image-stand-out.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -165,7 +165,7 @@ button a {
 }
 
 .charry {
-    background-image: url('/images/mobile/image-graphic-design.jpg');
+    background-image: url('./images/mobile/image-graphic-design.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -173,7 +173,7 @@ button a {
 }
 
 .orange {
-    background-image: url('/images/mobile/image-photography.jpg');
+    background-image: url('./images/mobile/image-photography.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -262,7 +262,7 @@ button a {
 .milk {
     width: 50%;
     height: 25vh;
-    background-image: url('/images/mobile/image-gallery-milkbottles.jpg');
+    background-image: url('./images/mobile/image-gallery-milkbottles.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -270,7 +270,7 @@ button a {
 .orange2 {
     width: 50%;
     height: 25vh;
-    background-image: url('/images/mobile/image-gallery-orange.jpg');
+    background-image: url('./images/mobile/image-gallery-orange.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -286,7 +286,7 @@ button a {
 .sugar {
     width: 50%;
     height: 25vh;
-    background-image: url('/images/mobile/image-gallery-sugar-cubes.jpg');
+    background-image: url('./images/mobile/image-gallery-sugar-cubes.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -371,7 +371,7 @@ footer {
 
     .header-img {
         height: 100vh;
-        background-image: url('/images/desktop/image-header.jpg');
+        background-image: url('./images/desktop/image-header.jpg');
         background-position: center;
     }
 
@@ -395,7 +395,7 @@ footer {
     }
 
     .egg {
-        background-image: url('/images/desktop/image-transform.jpg');
+        background-image: url('./images/desktop/image-transform.jpg');
         max-width: 50%;
         background-position: 50% 50%;
         height: 100%;
@@ -418,7 +418,7 @@ footer {
     }
 
     .stand {
-        background-image: url('/images/desktop/image-stand-out.jpg');
+        background-image: url('./images/desktop/image-stand-out.jpg');
         max-width: 50%;
         background-position: 50% 50%;
         height: 100%;
@@ -427,7 +427,7 @@ footer {
     }
 
     .charry {
-        background-image: url('/images/desktop/image-graphic-design.jpg');
+        background-image: url('./images/desktop/image-graphic-design.jpg');
         background-position: 50% 50%;
         width: 50%;
         height: 100%;
@@ -435,7 +435,7 @@ footer {
     }
 
     .orange {
-        background-image: url('/images/desktop/image-photography.jpg');
+        background-image: url('./images/desktop/image-photography.jpg');
         background-position: 50% 50%;
         width: 50%;
         height: 100%;
@@ -496,22 +496,22 @@ footer {
     }
 
     .milk {
-        background-image: url('/images/desktop/image-gallery-milkbottles.jpg');
+        background-image: url('./images/desktop/image-gallery-milkbottles.jpg');
         background-position: 50% 50%;
     }
 
     .orange2 {
-        background-image: url('/images/desktop/image-gallery-orange.jpg');
+        background-image: url('./images/desktop/image-gallery-orange.jpg');
         background-position: 50% 50%;
     }
 
     .cone {
-        background-image: url('/images/desktop/image-gallery-cone.jpg');
+        background-image: url('./images/desktop/image-gallery-cone.jpg');
         background-position: 50% 50%;
     }
 
     .sugar {
-        background-image: url('/images/desktop/image-gallery-sugarcubes.jpg');
+        background-image: url('./images/desktop/image-gallery-sugarcubes.jpg');
         background-position: 50% 50%;
     }
 
